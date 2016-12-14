@@ -140,7 +140,7 @@
     "commander": "^2.9.0",
     "connect": "^2.8.3",
     "core-js": "^2.2.2",
-    "debug": "^2.2.0",
+    "debug": "sergmetelin/debug",
     "denodeify": "^1.2.1",
     "event-target-shim": "^1.0.5",
     "fbjs": "^0.8.5",
